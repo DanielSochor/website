@@ -1,3 +1,6 @@
+/* This CSS is not used; instead the bootstrap is used */
+
+
 .column {
     float: left;
 }
@@ -11,7 +14,7 @@
 }
 
 .row {
-    
+
 }
 
 .row:after {
