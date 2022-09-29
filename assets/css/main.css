@@ -13,10 +13,6 @@
     width: 75%;
 }
 
-.row {
-
-}
-
 .row:after {
     content: "";
     display: table;
